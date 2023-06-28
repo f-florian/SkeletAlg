@@ -1,0 +1,1 @@
+-f ~/Documents/dev/meshes/cube00.msh -q3 -I3 -r32 -t 1e-4 --epskrylov 1e-4 --eta1 10 --eta2 2 --eta3 0.5 -k1 -K0

@@ -1,0 +1,6 @@
+[submodule "CMakeSystem"]
+	path = CMakeSystem
+	url = https://github.com/f-florian/CMakeSystem.git
+[submodule "Lyra"]
+	path = Lyra
+	url = https://github.com/bfgroup/Lyra.git

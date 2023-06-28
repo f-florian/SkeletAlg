@@ -1,0 +1,17 @@
+*.so
+doc
+doc/*
+build
+build/*
+*.msh*
+
+## Python
+*.egg
+*.egg-info
+build/*
+
+## Cython
+python/*.cpp
+
+## LSP
+compile_commands.json
